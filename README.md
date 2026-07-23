@@ -7,14 +7,14 @@ Overview
 MIYIO is a Final Year Project that combines embedded systems, wearable technology, and assistive technology into a compact smartwatch. Instead of relying on a screen or speaker, the watch communicates through vibration patterns, making it suitable for users with visual impairments.
 
 Features
-🕒 Vibration-based time notification
-🚨 Automatic fall detection
-🆘 SOS emergency button
-📱 Bluetooth Low Energy (BLE) connectivity
-🔋 Rechargeable Li-Po battery
-⏰ High-accuracy DS3231M Real-Time Clock
-📳 Mini vibration motor feedback
-🎛 Three tactile control buttons
+ Vibration-based time notification
+ Automatic fall detection
+ SOS emergency button
+ Bluetooth Low Energy (BLE) connectivity
+ Rechargeable Li-Po battery
+ High-accuracy DS3231M Real-Time Clock
+ Mini vibration motor feedback
+ Three tactile control buttons
 Hardware
 Component	Model
 Microcontroller	ESP32-C3 SuperMini
@@ -39,9 +39,9 @@ MIYIO/
 ├── Documents/         # Report & documentation
 └── README.md
 Current Progress
-✅ Hardware selection
-✅ Circuit schematic
-✅ PCB layout
+ Hardware selection
+ Circuit schematic
+ PCB layout
 🔄 PCB routing
 ⏳ 3D enclosure
 ⏳ Firmware development
