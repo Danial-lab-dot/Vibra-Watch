@@ -1,5 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "MAG_CHARGE") (type "KiCad") (uri "${KIPRJMOD}/MAG_CHARGE.pretty") (options "") (descr ""))
-	(lib (name "VibraWatch") (type "KiCad") (uri "${KIPRJMOD}/VibraWatch.pretty") (options "") (descr ""))
-)
