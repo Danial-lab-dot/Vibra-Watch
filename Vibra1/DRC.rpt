@@ -1,0 +1,36 @@
+** Drc report for Vibra1.kicad_pcb **
+** Created on 2026-08-01T13:15:36 **
+** Report includes: Errors, Warnings **
+
+** Found 6 DRC violations **
+[lib_footprint_issues]: The current configuration does not include the footprint library 'TactileButton'
+    Local override; warning
+    @(146.5000 mm, 99.5000 mm): Footprint SW3
+[lib_footprint_issues]: The current configuration does not include the footprint library 'TactileButton'
+    Local override; warning
+    @(146.5000 mm, 94.0000 mm): Footprint SW2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'ESP32-C3_SUPERMINI_TH'
+    Local override; warning
+    @(120.6200 mm, 85.0000 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'DS3231M_'
+    Local override; warning
+    @(145.3450 mm, 77.3650 mm): Footprint U2
+[lib_footprint_issues]: The current configuration does not include the footprint library 'TactileButton'
+    Local override; warning
+    @(146.5000 mm, 88.5000 mm): Footprint SW1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'GY-521'
+    Local override; warning
+    @(119.3300 mm, 107.6900 mm): Footprint U4
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
