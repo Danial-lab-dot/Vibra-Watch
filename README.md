@@ -37,7 +37,7 @@ Wireless charging
 Heart rate monitoring
 Improved battery life
 
-Authors : Dan
+Authors : Dan, 
 An International competition Project
 
 License
