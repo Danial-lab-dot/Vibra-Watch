@@ -37,6 +37,19 @@ Wireless charging
 Heart rate monitoring
 Improved battery life
 
+Progress : 
+Researching parts needed to make the dream come true - Done
+Design a schematic based on the required parts - Done <img width="1920" height="1020" alt="Screenshot 2026-08-09 072355" src="https://github.com/user-attachments/assets/5237ed83-faa7-437e-8525-632d3d3edad2" />
+Design a Circuit board to match the schematic - Done<img width="1920" height="1020" alt="Screenshot 2026-08-09 072412" src="https://github.com/user-attachments/assets/4f293a35-d959-4ffa-a5b0-114a9c9d400b" />
+Design a 3D Model - Done<img width="1917" height="867" alt="Screenshot 2026-08-01 182002" src="https://github.com/user-attachments/assets/98cf4600-7d99-42b0-941f-ad07cb872768" />
+Order the parts - Due soon
+Assemble the hardware - Coming soon
+Testing - Due soon
+Final touches - Idk when
+The product launching - Soon
+
+
+
 Authors : Dan, 
 An International competition Project
 
