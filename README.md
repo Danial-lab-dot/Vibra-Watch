@@ -1,10 +1,10 @@
-MIYIO - Smart Assistive Watch for the Visually Impaired
+ Smart Assistive Watch for the Visually Impaired
 
 A compact wearable smartwatch designed to improve independence and safety for visually impaired users through vibration-based time notification, fall detection, and emergency SOS functionality.
 
 Overview
 
-MIYIO is a project that combines embedded systems, wearable technology, and assistive technology into a compact smartwatch. Instead of relying on a screen or speaker, the watch communicates through vibration patterns, making it suitable for users with visual impairments.
+VibraWatch is a project that combines embedded systems, wearable technology, and assistive technology into a compact smartwatch. Instead of relying on a screen or speaker, the watch communicates through vibration patterns, making it suitable for users with visual impairments.
 
 Features : 
 
@@ -50,9 +50,4 @@ The product launching - Soon
 
 
 
-Authors : Dan, 
-An International competition Project
-
-License
-
-This project is intended for educational and research purposes.
+Authors : Danial
