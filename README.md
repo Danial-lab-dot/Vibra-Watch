@@ -2,9 +2,7 @@
 
 A compact wearable smartwatch designed to improve independence and safety for visually impaired users through vibration-based time notification, fall detection, and emergency SOS functionality.
 
-Overview
-
-VibraWatch is a project that combines embedded systems, wearable technology, and assistive technology into a compact smartwatch. Instead of relying on a screen or speaker, the watch communicates through vibration patterns, making it suitable for users with visual impairments.
+I personally built this since i'm always wondering 'How does blind person do normal human stuff' like eating, driving, reading and specifically know what time is it as they only feel the heat from the sun, not the accurate time. So, I hope with this project, I can eliminate those needs to ask other people, to hear their phone speaking loudly just to tell them what time is it. They can know it just by feeling it, privately.
 
 Features : 
 
