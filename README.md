@@ -49,3 +49,5 @@ The product launching - Soon
 
 
 Authors : Danial
+
+License : MIT
